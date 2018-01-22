@@ -34,4 +34,5 @@ frac->.digits
 exp->edigits
 digits->digit|digit digits
 e-> e|e+|e-|E|E+|E-
+..--..
 
